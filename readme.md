@@ -80,11 +80,11 @@ pip install -r requirements.txt
 
 Once you've installed the dependencies, follow these steps to run the project:
 
-### 1️⃣ Navigate to the Project Directory
-Make sure you're in the root directory of the project:
-```bash
-cd book-recommender
 ```
+python3 book-recommender/app/gradio-dhashboard.py
+```
+
+### Go to ``` http://127.0.0.1:7860/```
 
 ### 📜 License
 This project is open-source under the MIT License.
